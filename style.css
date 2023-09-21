@@ -17,7 +17,7 @@ html,
     align-items: center
 }
 .card {
-    height:50vh;
+    height: 65vh;
     margin: 2.5rem 0rem;
     width: 27%;
     background-color: rgba(65, 65, 65, 0.3);
@@ -32,14 +32,15 @@ html,
     margin-top: 2rem;
 }
 .card-img {
-    width: 100%
+    width: 90%
 }
-
+#mediumimages {
+    width:70%
+}
+#smallimages{
+    width: 60%;
+}
 .card-price {
  font-size: 1.2rem;
 }
 
-.img {
-    height:
-
-}

@@ -138,14 +138,14 @@ html,
         width: 30%
     }
 }
-@media screen and (max-width:900px) {
+@media screen and (max-width:1000px) {
     .card {
         width: 40%
     }
 }
-@media screen and (max-width:1000px) {
+@media screen and (max-width:700px) {
     .card {
-        width:50%
+        width:100%
     }
 }
 #animation {

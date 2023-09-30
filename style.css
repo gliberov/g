@@ -124,10 +124,10 @@ html,
     width: 90%
 }
 #mediumimages {
-    width:70%
+    width:60%
 }
 #smallimages{
-    width: 60%;
+    width: 50%;
 }
 .card-price {
  font-size: 1.2rem;
@@ -137,14 +137,59 @@ html,
     .card {
         width: 30%
     }
+    #card1 {
+        width:30%
+    }
+    #card2 {
+        width:30%
+    }
+    #card3 {
+        width:30%
+    }
+    #card4 {
+        width:30%
+    }
+    #card5 {
+        width:30%
+    }
 }
 @media screen and (max-width:1000px) {
     .card {
         width: 40%
     }
+    #card1 {
+        width:40%
+    }
+    #card2 {
+        width:40%
+    }
+    #card3 {
+        width:40%
+    }
+    #card4 {
+        width:40%
+    }
+    #card5 {
+        width:40%
+    }
 }
 @media screen and (max-width:700px) {
     .card {
+        width:100%
+    }
+    #card1 {
+        width:100%
+    }
+    #card2 {
+        width:100%
+    }
+    #card3 {
+        width:100%
+    }
+    #card4 {
+        width:100%
+    }
+    #card5 {
         width:100%
     }
 }
